@@ -84,8 +84,9 @@ table {
     font-weight: 400;
 }
 
-td {
-    border: 1px solid #dddddd;
+td,
+th {
+    border: 1px solid #d3cfcf;
     padding: 9px;
 }
 
